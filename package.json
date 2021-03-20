@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/ensnared/luxon-datetime-adapter.git"
   },
+  "publishConfig": {
+    "name": "@ensnared/luxon-datetime-adapter"
+  },
   "keywords": [
     "angular",
     "luxon",
@@ -22,6 +25,6 @@
     "@angular-material-components/datetime-picker": "^5.1.0",
     "@angular/common": "*",
     "@angular/core": "*",
-    "luxon": "^1.26.0"
+    "luxon": "^1.*"
   }
 }
