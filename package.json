@@ -1,0 +1,27 @@
+{
+  "name": "luxon-datetime-adapter",
+  "version": "1.0.0",
+  "description": "Angular Material Datetime-picker Luxon Adapter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ensnared/luxon-datetime-adapter.git"
+  },
+  "keywords": [
+    "angular",
+    "luxon",
+    "datetime-adapter",
+    "angular-material-components"
+  ],
+  "author": "Roy W. Andersen <ensnared@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ensnared/luxon-datetime-adapter/issues"
+  },
+  "homepage": "https://github.com/ensnared/luxon-datetime-adapter#readme",
+  "peerDependencies": {
+    "@angular-material-components/datetime-picker": "^5.1.0",
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "luxon": "^1.26.0"
+  }
+}
